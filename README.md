@@ -33,22 +33,14 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhathfirdose1&show_icons=true&theme=default" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhathfirdose1&theme=default" width="49%" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhathfirdose/">
+  <a href="https://www.linkedin.com/in/nikhath-firdose/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nikhath.firdose@gmail.com">
+  <a href="mailto:nikhathh.firdose@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
