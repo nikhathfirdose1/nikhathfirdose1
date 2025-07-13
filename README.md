@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikhath! 👋</h1>
-<p align="center">Backend Engineer • Cloud Enthusiast • System Design Explorer</p>
+<p align="center">Backend Engineer • Cloud Enthusiast • Distributed Systems Explorer</p>
 
 ---
 
