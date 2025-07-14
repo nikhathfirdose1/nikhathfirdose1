@@ -5,29 +5,30 @@
 
 ### 💻 About Me
 
-- 🧠 3+ years of experience in **Backend Engineering** with Java, Spring Boot & PostgreSQL  
-- ☁️ Skilled in deploying production-ready APIs on **AWS**  
-- 🔒 Focused on building **secure**, **scalable**, and **fault-tolerant** systems  
-- 📘 Currently exploring **Distributed Systems**, **Kafka**, and **Golang**  
-- 🎓 MS in Computer Software Engineering @ San Jose State University  
+- 🧠 3+ years of experience in Backend Engineering with Java, Spring Boot, and PostgreSQL
+- ☁️ Deployed production-grade APIs on AWS with CI/CD and monitoring in place
+- 🔒 Focused on building secure, scalable, and observable backend systems
+- 📘 Exploring Distributed Systems, Kafka, and system-level tooling with Go
+- 🎓 MS in Computer Software Engineering @ San Jose State University
 
 ---
 
 ### 🔧 Tech Stack
 
 **Languages:**  
-`Java` `Python` `Javascript` `SQL` `Go (learning)`
+`Java` `Python` `Go (actively building)` `JavaScript` `SQL
 
 **Frameworks & Tools:**  
 `Spring Boot` `FastAPI` `Kafka` `GraphQL`  
-`Docker` `Kubernetes` `Git` `Postman`  
-`AWS (EC2, RDS, S3)` `ELK Stack`  
+`Docker` `Kubernetes` `Prometheus` `Git` `Postman`  
+`AWS (EC2, RDS, S3)` `ELK Stack` `VIM`
 
 ---
 
 ### 🛠️ Highlight Projects
 
-- 📂 [GFS Inspired storage](https://github.com/nikhathfirdose1/GFS-Distributed-Storage) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring  
+- 📂 [GFS Inspired storage](https://github.com/nikhathfirdose1/GFS-Distributed-Storage) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring
+- 🔐 [Vaultify](https://github.com/nikhathfirdose1/Vaultify) – Secure secrets manager in Go with encrypted storage, PostgreSQL metadata tracking, and Prometheus observability
 - ✨ [Microblog Kafka](https://github.com/nikhathfirdose1/Microblogging-Platform) – Real-time microblogging system built using Kafka and Zookeeper
 - 🎓 [LMS Platform](https://github.com/nikhathfirdose1/Learning-Management-System) – Full-stack Learning Management System using Spring Boot and Next.js  
 
