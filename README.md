@@ -27,9 +27,9 @@
 
 ### 🛠️ Highlight Projects
 
-- 📂 [ChunkFS](https://github.com/nikhathfirdose1/chunkfs) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring  
-- ✨ [Microblog Kafka](https://github.com/nikhathfirdose1/microblog-kafka) – Real-time microblogging system built using Kafka, Zookeeper, and FastAPI  
-- 🎓 [LMS Platform](https://github.com/nikhathfirdose1/lms-nextjs-springboot) – Full-stack Learning Management System using Spring Boot and Next.js  
+- 📂 [GFS Inspired storage](https://github.com/nikhathfirdose1/GFS-Distributed-Storage) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring  
+- ✨ [Microblog Kafka](https://github.com/nikhathfirdose1/Microblogging-Platform) – Real-time microblogging system built using Kafka, Zookeeper, and FastAPI  
+- 🎓 [LMS Platform](https://github.com/nikhathfirdose1/Learning-Management-System) – Full-stack Learning Management System using Spring Boot and Next.js  
 
 ---
 
