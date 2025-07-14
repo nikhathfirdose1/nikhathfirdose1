@@ -16,7 +16,7 @@
 ### 🔧 Tech Stack
 
 **Languages:**  
-`Java` `Python` `SQL` `Go (learning)`
+`Java` `Python` `Javascript` `SQL` `Go (learning)`
 
 **Frameworks & Tools:**  
 `Spring Boot` `FastAPI` `Kafka` `GraphQL`  
@@ -28,7 +28,7 @@
 ### 🛠️ Highlight Projects
 
 - 📂 [GFS Inspired storage](https://github.com/nikhathfirdose1/GFS-Distributed-Storage) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring  
-- ✨ [Microblog Kafka](https://github.com/nikhathfirdose1/Microblogging-Platform) – Real-time microblogging system built using Kafka, Zookeeper, and FastAPI  
+- ✨ [Microblog Kafka](https://github.com/nikhathfirdose1/Microblogging-Platform) – Real-time microblogging system built using Kafka and Zookeeper
 - 🎓 [LMS Platform](https://github.com/nikhathfirdose1/Learning-Management-System) – Full-stack Learning Management System using Spring Boot and Next.js  
 
 ---
