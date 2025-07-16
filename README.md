@@ -3,17 +3,17 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
-- 🧠 3+ years of experience in Backend Engineering with Java, Spring Boot, and PostgreSQL
-- ☁️ Deployed production-grade APIs on AWS with CI/CD and monitoring in place
-- 🔒 Focused on building secure, scalable, and observable backend systems
-- 📘 Exploring Distributed Systems, Kafka, and system-level tooling with Go
-- 🎓 MS in Computer Software Engineering @ San Jose State University
+-  3+ years of experience in Backend Engineering with Java, Spring Boot, and PostgreSQL
+-  Deployed production-grade APIs on AWS with CI/CD and monitoring in place
+-  Focused on building secure, scalable, and observable backend systems
+-  Exploring Distributed Systems, Kafka, and system-level tooling with Go
+-  MS in Computer Software Engineering @ San Jose State University
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 **Languages:**  
 `Java` `Python` `Go (actively building)` `JavaScript` `SQL
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Highlight Projects
+### Highlight Projects
 
 - 📂 [GFS Inspired storage](https://github.com/nikhathfirdose1/GFS-Distributed-Storage) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring
 - 🔐 [Vaultify](https://github.com/nikhathfirdose1/Vaultify) – Secure secrets in Go with encrypted storage, metadata tracking, & Prometheus observability
@@ -35,7 +35,7 @@
 ---
 
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhath-firdose/">
