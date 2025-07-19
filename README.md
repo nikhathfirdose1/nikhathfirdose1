@@ -16,7 +16,7 @@
 ### Tech Stack
 
 **Languages:**  
-`Java` `Python` `Go (actively building)` `JavaScript` `SQL
+`Java` `Python` `Go (actively building)` `JavaScript` `SQL`
 
 **Frameworks & Tools:**  
 `Spring Boot` `FastAPI` `Kafka` `GraphQL`  
