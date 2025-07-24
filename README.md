@@ -9,7 +9,7 @@
 -  Deployed production-grade APIs on AWS with CI/CD and monitoring in place
 -  Focused on building secure, scalable, and observable backend systems
 -  Exploring Distributed Systems, Kafka, and system-level tooling with Go
--  MS in Computer Software Engineering @ San Jose State University
+-  MS in Computer Software Engineering @ San Jose State University, Specializing in Distributed Systems
 
 ---
 
