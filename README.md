@@ -5,23 +5,23 @@
 
 ### About Me
 
--  3+ years of experience in Backend Engineering with Java, Spring Boot, and PostgreSQL
--  Deployed production-grade APIs on AWS with CI/CD and monitoring in place
--  Focused on building secure, scalable, and observable backend systems
--  Exploring Distributed Systems, Kafka, and system-level tooling with Go
--  MS in Computer Software Engineering @ San Jose State University, Specializing in Distributed Systems
+- 3+ years of software engineering experience with Java, Spring Boot, and PostgreSQL  
+- Built and deployed production-grade APIs on AWS with CI/CD and observability tooling  
+- Focused on secure, scalable, and maintainable backend systems  
+- Exploring distributed systems, Kafka, and system-level tooling in Go  
+- MS in Computer Software Engineering @ San Jose State University, specializing in Distributed Systems
 
 ---
 
 ### Tech Stack
 
 **Languages:**  
-`Java` `Python` `Go (actively building)` `JavaScript` `SQL`
+`Java` `Python` `Go` `JavaScript` `SQL`
 
 **Frameworks & Tools:**  
-`Spring Boot` `FastAPI` `Kafka` `GraphQL`  
-`Docker` `Kubernetes` `Prometheus` `Git` `Postman`  
-`AWS (EC2, RDS, S3)` `ELK Stack` `VIM`
+`Spring Boot` `FastAPI` `Apache Kafka` `GraphQL`  
+`Docker` `Kubernetes` `Prometheus` `Git`
+`AWS (EC2, RDS, S3)` `MySQL` `MongoDB`
 
 ---
 
