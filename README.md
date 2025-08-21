@@ -5,11 +5,11 @@
 
 ### About Me
 
-- 3+ years of software engineering experience with Java, Spring Boot, and PostgreSQL  
+- 3 years of software engineering experience with Java, Python, React, and PostgreSQL  
 - Built and deployed production-grade APIs on AWS with CI/CD and observability tooling  
 - Focused on secure, scalable, and maintainable backend systems  
-- Exploring distributed systems, Kafka, and system-level tooling in Go  
-- MS in Computer Software Engineering @ San Jose State University, specializing in Distributed Systems
+- Exploring distributed systems and system-level tooling in Go  
+- MS in Software Engineering @ San Jose State University, specializing in Distributed Systems
 
 ---
 
