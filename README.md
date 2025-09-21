@@ -42,7 +42,11 @@
   <a href="https://www.linkedin.com/in/nikhath-firdose/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="mailto:nikhathh.firdose@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <br/>
+  <code>nikhathh.firdose@gmail.com</code>
 </p>
+
