@@ -19,21 +19,22 @@
 `Java` `Python` `Go` `JavaScript` `SQL`
 
 **Frameworks & Tools:**  
-`Spring Boot` `FastAPI` `Apache Kafka` `GraphQL`  
-`Docker` `Kubernetes` `Prometheus` `Git`
-`AWS (EC2, RDS, S3)` `MySQL` `MongoDB`
+`Spring Boot` `FastAPI` `GraphQL` `Apache Kafka`  
+`Docker` `Kubernetes` `Celery` `Redis`  
+`Prometheus` `Grafana` `Git`  
+`AWS (EC2, RDS, S3)` `PostgreSQL` `MySQL` `MongoDB`
 
 ---
 
 ### Highlight Projects
 
-- 📂 [GFS Inspired storage](https://github.com/nikhathfirdose1/GFS-Distributed-Storage) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring
-- 🔐 [Vaultify](https://github.com/nikhathfirdose1/Vaultify) – Secure secrets in Go with encrypted storage, metadata tracking, & Prometheus observability
-- ✨ [Microblog Kafka](https://github.com/nikhathfirdose1/Microblogging-Platform) – Real-time microblogging system built using Kafka and Zookeeper
-- 🎓 [LMS Platform](https://github.com/nikhathfirdose1/Learning-Management-System) – Full-stack Learning Management System using Spring Boot and Next.js  
+- 📂 [GFS Inspired Storage](https://github.com/nikhathfirdose1/GFS-Distributed-Storage) – GFS-inspired distributed file system with chunk replication and heartbeat monitoring  
+- 🔐 [Vaultify](https://github.com/nikhathfirdose1/Vaultify) – Secrets manager in Go with encrypted storage, metadata tracking, & Prometheus observability  
+- ✨ [Microblog Kafka](https://github.com/nikhathfirdose1/Microblogging-Platform) – Real-time microblogging system built using Kafka and Zookeeper  
+- 🎓 [LMS Platform](https://github.com/nikhathfirdose1/Learning-Management-System) – Full-stack LMS using Spring Boot and Next.js  
+- 📊 [TelemetryHub](https://github.com/nikhathfirdose1/telemetryhub) – Observability backend (FastAPI, PostgreSQL, Celery, Redis, Prometheus, Grafana) with metrics/log ingest and AI-assisted log clustering
 
 ---
-
 
 ### Connect with Me
 
