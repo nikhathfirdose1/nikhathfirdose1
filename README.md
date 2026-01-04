@@ -54,3 +54,6 @@ If you’re building product-focused systems that still care about engineering q
 I’d love to connect.
 
 📫 https://linkedin.com/in/nikhath-firdose
+📩 nikhathh.firdose@gmail.com
+
+
