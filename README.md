@@ -2,7 +2,6 @@ Hi, I’m Nikhath 👋
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 
-
 I’m a full-stack engineer who enjoys building end-to-end features - 
 from clean, user-friendly interfaces to backend services that scale and behave well in production.
 
@@ -29,20 +28,16 @@ and how systems hold up once things get busy.
 ### Things I’ve built
 
 🧩 **End-to-end Web Platforms**  
-Full-stack features using React / Next.js backed by Java and Python services,
-with a focus on clean APIs, data modeling, and production readiness.
+Full-stack features using React / Next.js backed by Java and Python services,with a focus on clean APIs, data modeling, and production readiness.
 
 🗄️ **Backend & Distributed Systems Projects**  
-Hands-on work exploring replication, coordination, and concurrency —
-mainly to understand how larger systems behave under load and failure.
+Hands-on work exploring replication, coordination, and concurrency, mainly to understand how larger systems behave under load and failure.
 
 🛰️ **Telemetry & Monitoring Tools**  
-Pipelines that ingest and surface system data so failures are visible,
-actionable, and easier to reason about.
+Pipelines that ingest and surface system data so failures are visible, actionable, and easier to reason about.
 
 🤖 **AI-powered Applications**  
-User-facing apps backed by RAG pipelines, caching, and deployment workflows,
-built with real-world constraints in mind.
+User-facing apps backed by RAG pipelines, caching, and deployment workflows, built with real-world constraints in mind.
 
 ---
 
@@ -52,14 +47,6 @@ built with real-world constraints in mind.
 **Data:** PostgreSQL, Redis, MongoDB  
 **Infra:** Docker, Kubernetes, AWS, CI/CD  
 **Monitoring:** Prometheus, Grafana
-
----
-
-### How I like to work
-- Start simple, then harden systems based on real usage
-- Measure performance instead of guessing
-- Keep systems observable and easy to reason about
-- Write code that the next engineer won’t hate maintaining
 
 ---
 
