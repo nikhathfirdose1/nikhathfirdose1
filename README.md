@@ -1,66 +1,69 @@
-# Hi, I’m Nikhath Firdose 👋
-Backend & FullStack Engineer | Production APIs • Reliability • Observability
+Hi, I’m Nikhath 👋
 
-I build **scalable, secure backend systems** with a strong focus on **performance, fault tolerance, and operational visibility**.  
-My work spans distributed storage, high-throughput APIs, telemetry pipelines, and production cloud deployments.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ4Z3d2dHk2aDZtZWFyNHd0NmRmbmZ4NHF1dHNhZ2t4NnNnYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="220"/>
 
-- 💼 3+ years Software Engineer @ Accenture (Java, Spring Boot, PostgreSQL, AWS)
-- 🎓 M.S. Software Engineering (Distributed Systems), San José State University - Dec 2025
-- 🔍 Interests: distributed systems, reliability engineering, storage systems, observability
 
----
+I’m a full-stack engineer who enjoys building end-to-end features - 
+from clean, user-friendly interfaces to backend services that scale and behave well in production.
 
-## ⭐ Featured Projects
-
-### Distributed File Storage System (GFS-inspired) — Java
-- Designed and implemented the **chunk server layer** with 64MB chunking and **3× replication**
-- Built heartbeat-based coordination, rebalancing, and automated recovery
-- Parallelized chunk I/O using multithreading; stabilized throughput under **5K+ concurrent ops**
-- Focus: concurrency control, failure handling, correctness under load
-
-📌 *Core learning:* real-world tradeoffs in distributed storage and replication.
+I like working close to real users, while also thinking about performance, reliability,
+and how systems hold up once things get busy.
 
 ---
 
-### TelemetryHub — Observability Pipeline (FastAPI, Celery, Prometheus, Grafana)
-- Built a **low-latency telemetry pipeline** processing **50K events/sec**
-- Implemented structured logging, custom metrics exporters, and dashboards
-- Added LLM-driven clustering to surface failure patterns across distributed components
-- Focus: reliability, backpressure handling, production monitoring
-
-📌 *Core learning:* observability as a first-class system feature.
+### What I enjoy working on
+- Designing backend APIs that stay simple as features grow
+- Building user-facing flows and wiring them to reliable services
+- Thinking through edge cases, performance, and failure scenarios
+- Making systems easier to debug with good logs, metrics, and dashboards
 
 ---
 
-### High Performance Computing & RPC Benchmarking — C++, OpenMP, MPI
-- Benchmarked RPC workloads on **2GB datasets** to study AOS vs SOA memory layouts
-- Profiled cache behavior, context switching, and CPU scheduling on Linux
-- Compared gRPC vs REST throughput and message-passing overhead
-
-📌 *Core learning:* hardware-aware performance engineering.
+### What I’m exploring more deeply
+- Distributed systems concepts through hands-on projects
+- How storage, caching, and concurrency affect real-world performance
+- Applying observability to understand system behavior, not just monitor uptime
 
 ---
 
-### AI-Powered Study Assistant — FastAPI, Next.js, FAISS
-- Built a multimodal **RAG pipeline** to generate quizzes and learning plans from PDFs/audio
-- Improved API throughput by **30%** using Redis caching
-- Deployed on AWS with GitHub Actions CI/CD
+### Things I’ve built
 
-📌 *Core learning:* applying AI systems with production constraints.
+🧩 **End-to-end Web Platforms**  
+Full-stack features using React / Next.js backed by Java and Python services,
+with a focus on clean APIs, data modeling, and production readiness.
+
+🗄️ **Backend & Distributed Systems Projects**  
+Hands-on work exploring replication, coordination, and concurrency —
+mainly to understand how larger systems behave under load and failure.
+
+🛰️ **Telemetry & Monitoring Tools**  
+Pipelines that ingest and surface system data so failures are visible,
+actionable, and easier to reason about.
+
+🤖 **AI-powered Applications**  
+User-facing apps backed by RAG pipelines, caching, and deployment workflows,
+built with real-world constraints in mind.
 
 ---
 
-## Tech Stack
-
-**Languages:** Python, Java, Go, C++, JavaScript, SQL  
-**Backend:** Spring Boot, FastAPI, REST, GraphQL  
-**Infra & DevOps:** AWS, Docker, Kubernetes, Jenkins, CI/CD, Linux  
-**Observability:** Prometheus, Grafana, structured logging, metrics  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+### Tech I work with
+**Frontend:** React, Next.js, TypeScript  
+**Backend:** Java (Spring Boot), Python (FastAPI), REST, GraphQL  
+**Data:** PostgreSQL, Redis, MongoDB  
+**Infra:** Docker, Kubernetes, AWS, CI/CD  
+**Monitoring:** Prometheus, Grafana
 
 ---
 
-## Let’s Connect
-- LinkedIn: https://linkedin.com/in/nikhath-firdose
-- GitHub: https://github.com/nikhathfirdose1
-- Email: nikhathh.firdose@gmail.com
+### How I like to work
+- Start simple, then harden systems based on real usage
+- Measure performance instead of guessing
+- Keep systems observable and easy to reason about
+- Write code that the next engineer won’t hate maintaining
+
+---
+
+If you’re building product-focused systems that still care about engineering quality,
+I’d love to connect.
+
+📫 https://linkedin.com/in/nikhath-firdose
