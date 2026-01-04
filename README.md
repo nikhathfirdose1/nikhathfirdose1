@@ -1,7 +1,6 @@
 Hi, I’m Nikhath 👋
 
-<img align="right" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="220"/>
-
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 
 
 I’m a full-stack engineer who enjoys building end-to-end features - 
