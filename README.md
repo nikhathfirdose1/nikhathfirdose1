@@ -28,10 +28,10 @@ and how systems hold up once things get busy.
 ### Things I’ve built
 
 🧩 **End-to-end Web Platforms**  
-Full-stack features using React / Next.js backed by Java and Python services,with a focus on clean APIs, data modeling, and production readiness.
+Full-stack features with a focus on clean APIs, data modeling, and production readiness.
 
 🗄️ **Backend & Distributed Systems Projects**  
-Hands-on work exploring replication, coordination, and concurrency, mainly to understand how larger systems behave under load and failure.
+Hands-on work exploring replication, coordination, and concurrency to understand how larger systems behave under load and failure.
 
 🛰️ **Telemetry & Monitoring Tools**  
 Pipelines that ingest and surface system data so failures are visible, actionable, and easier to reason about.
